@@ -1,2 +1,2 @@
 welcome to aws ec2 server creation
-instance size = t2.large
+instance size = t2.small
