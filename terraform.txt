@@ -1,2 +1,3 @@
 welcome to aws ec2 server creation
-instance size = t2.small
+instance size = t2.medium
+ami= centos-ths65iwhe5
